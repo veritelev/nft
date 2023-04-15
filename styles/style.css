@@ -114,6 +114,10 @@ body {
     background: rgba(255, 255, 255, 0.1);
     padding: 11px 20px;
 }
+.main__btn:hover {
+  background: rgba(255, 255, 255, 0.5);
+  color: rgba(0, 0, 0, 0.5);
+}
 .main__btn-gradient {
     background: linear-gradient(214.02deg, #b75cff 6.04%, #671ae4 92.95%);
     margin-right: 17px;
