@@ -378,6 +378,9 @@ body {
     .card__link::after {
         display: none;
     }
+    .card__link:hover::after {
+        display: none;
+    }
     .title {
         font-size: 28px;
     }
@@ -415,6 +418,9 @@ body {
       color: rgba(0, 0, 0, 0.5);
     }
     .card__link::after {
+        display: none;
+    }
+    .card__link:hover::after {
         display: none;
     }
     .banner__title {
@@ -455,6 +461,9 @@ body {
       color: rgba(0, 0, 0, 0.5);
     }
     .card__link::after {
+        display: none;
+    }
+    .card__link:hover::after {
         display: none;
     }
     .header__menu {
