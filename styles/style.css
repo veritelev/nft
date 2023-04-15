@@ -376,6 +376,9 @@ body {
       background: rgba(255, 255, 255, 0.5);
       color: rgba(0, 0, 0, 0.5);
     }
+    .card__link::after {
+        display: none;
+    }
     .title {
         font-size: 28px;
     }
@@ -411,6 +414,9 @@ body {
     .card__link:hover {
       background: rgba(255, 255, 255, 0.5);
       color: rgba(0, 0, 0, 0.5);
+    }
+    .card__link::after {
+        display: none;
     }
     .banner__title {
         font-size: 30px;
@@ -448,6 +454,9 @@ body {
     .card__link:hover {
       background: rgba(255, 255, 255, 0.5);
       color: rgba(0, 0, 0, 0.5);
+    }
+    .card__link::after {
+        display: none;
     }
     .header__menu {
         display: block;
