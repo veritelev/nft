@@ -372,6 +372,10 @@ body {
     .card__cover, .card__img {
         height: 270px;
     }
+    .card__link:hover {
+      background: rgba(255, 255, 255, 0.5);
+      color: rgba(0, 0, 0, 0.5);
+    }
     .title {
         font-size: 28px;
     }
@@ -403,6 +407,10 @@ body {
     }
     .card__cover, .card__img {
         height: 210px;
+    }
+    .card__link:hover {
+      background: rgba(255, 255, 255, 0.5);
+      color: rgba(0, 0, 0, 0.5);
     }
     .banner__title {
         font-size: 30px;
@@ -436,6 +444,10 @@ body {
     }
     .card__cover, .card__img {
         height: 380px;
+    }
+    .card__link:hover {
+      background: rgba(255, 255, 255, 0.5);
+      color: rgba(0, 0, 0, 0.5);
     }
     .header__menu {
         display: block;
