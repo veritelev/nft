@@ -229,6 +229,7 @@ body {
 }
 .card__link {
   display: block;
+  color: #fff;
   text-align: center;
   text-decoration: none;
   border-radius: 10px;
